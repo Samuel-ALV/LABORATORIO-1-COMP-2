@@ -1,3 +1,8 @@
+integrantes:
+1-Madeline Brunella Mejia Mejia
+2-Francisca Del Carmen Bonilla Argueta
+3-Freddy Samuel Vasquez Alvarez
+
 Explique con sus propias palabras qué es Vue.js y cuál es su función dentro de la
 página web desarrollada.
 R// vue.js es un framework de javaScript que se utiliza para crear interfaces
