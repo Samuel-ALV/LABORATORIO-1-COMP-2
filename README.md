@@ -18,7 +18,8 @@ o Explique la diferencia entre las siguientes directivas utilizadas en su proyec
 bind y v-model
 R//v-bind se enlaza a un atributo de un elemento HTML y actualiza su valor dinámicamente, mientras que v-model se utiliza para crear una vinculación bidireccional entre un elemento de
  formulario y una variable reactiva en Vue.js, lo que permite que los cambios en el formulario actualicen automáticamente la variable y viceversa.
- -v-bind: crea una conexon bidireccional entre un input y una variable reactiva.
+   - v-model: crea un enlace bidireccional entre un input y una variable reactiva.  
+
  
 
 
